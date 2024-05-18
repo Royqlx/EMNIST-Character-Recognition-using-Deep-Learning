@@ -1,4 +1,4 @@
-# EMNIST-Character-Recognition-using-Deep-Learning
+# EMNIST Character Recognition using Deep Learning
 The project aims to classify characters from the EMNIST Balanced dataset using deep learning. Objectives include data preparation, developing MLP and CNN models, hyperparameter tuning, and performance evaluation. 
 ## Project Overview
 The goal of this project is to develop and optimize deep learning models to accurately recognize characters from the Extended MNIST (EMNIST) dataset, specifically the Balanced subset. The project involves creating and fine-tuning both Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) models to achieve high accuracy in character recognition.
