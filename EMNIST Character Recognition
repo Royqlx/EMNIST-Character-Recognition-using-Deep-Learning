@@ -4,14 +4,6 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Royston Rex Fernandez - 201759033 <br>\n",
-    "Atshaya Srinivasan - 201774445"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
     "# Importing the libraries\n",
     "We import all of the essential libraries first for data loading, processing, model training and performance evaluation"
    ]
