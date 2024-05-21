@@ -34,4 +34,16 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 ```
 # Dataset
-EMNIST Balanced dataset https://www.kaggle.com/datasets/crawford/emnist
+EMNIST Balanced dataset: https://www.kaggle.com/datasets/crawford/emnist
+
+# Key Results
+- CNN Outperformance: CNN consistently outperformed MLP in accuracy and loss metrics.
+- Accuracy: Higher testing accuracy for CNN. 
+- Loss: Lower testing loss for CNN.
+- Confusion Matrix Analysis: Both models struggled with similar-looking characters (e.g., 0, o, O and 1, l, L), but CNN showed better precision.
+- Evaluation Metrics: CNN had superior precision, recall, and F1-score.
+- Feature Extraction: CNNs excel at automatic feature extraction from images.
+- Hierarchical Representation: CNNs capture complex relationships effectively through layered representations.
+- Translation Invariance: CNNs are robust to transformations such as translations and rotations.
+- Parameter Efficiency: CNNs are more parameter-efficient than MLPs for high-dimensional data.
+- Performance Improvement: CNN's task-specific architecture leads to enhanced performance.
