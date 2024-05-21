@@ -33,4 +33,5 @@ warnings.filterwarnings("ignore")
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 ```
-
+# Dataset
+EMNIST Balanced dataset https://www.kaggle.com/datasets/crawford/emnist
